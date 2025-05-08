@@ -1,7 +1,7 @@
 import "./styles.css";
 
 export const metadata = {
-  title: "Tiffy's Kute Kats Collection",
+  title: "KKC 2024",
   description: "An Experience",
 };
 
